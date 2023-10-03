@@ -1,0 +1,16 @@
+Criando app:
+
+	npx create-expo-app appcrud --template
+
+Instalando bibliotecas:
+
+    npm install @react-navigation/native
+    npx expo install react-native-gesture-handler
+    npx expo install react-native-reanimated
+	
+Inicializar app:
+
+	npx expo start
+	
+	para rodar no Android: A
+	
